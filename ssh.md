@@ -20,6 +20,10 @@ Add key to agent
 
     ssh-add ~/.ssh/[key file]
     
+Enable agent forwarding on the remote host
+
+      ForwardAgent yes
+    
 Manage ssh server
 
     systemctl status sshd
