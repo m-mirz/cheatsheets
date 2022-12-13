@@ -20,7 +20,7 @@ Add key to agent
 
     ssh-add ~/.ssh/[key file]
     
-Enable agent forwarding on the remote host
+Enable agent forwarding in the local ssh config
 
       ForwardAgent yes
     
