@@ -23,6 +23,10 @@ Add key to agent
 Enable agent forwarding in the local ssh config
 
       ForwardAgent yes
+      
+Enable agent forwarding in the remote ssh server config
+
+    vi /etc/ssh/sshd_config
     
 Manage ssh server
 
