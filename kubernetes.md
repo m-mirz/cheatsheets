@@ -1,6 +1,13 @@
 # kubernetes
 
-## Links
+## Exercises and Guides
+[Official curriculum](https://github.com/cncf/curriculum)  
+[killer shell exam simulator](https://killer.sh/)  
+
+[kubernetes the hard way](https://github.com/kelseyhightower/kubernetes-the-hard-way)  
+[CKAD-exercises](https://github.com/dgkanatsios/CKAD-exercises)  
+
+## Documentation Links
 [kubectl Cheat Sheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)  
 [Configure a Pod to Use a Volume for Storage](https://kubernetes.io/docs/tasks/configure-pod-container/configure-volume-storage/)  
 [Operating etcd clusters for Kubernetes](https://kubernetes.io/docs/tasks/administer-cluster/configure-upgrade-etcd/#backing-up-an-etcd-cluster)  
