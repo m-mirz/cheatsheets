@@ -1,5 +1,19 @@
 # kubernetes
 
+## exam setup
+
+shell 
+
+    alias k=kubectl  # already configured
+    export do="--dry-run=client -o yaml"
+
+vim
+
+    set tabstop=2
+    set expandtab
+    set shiftwidth=2
+    
+
 ## Exercises and Guides
 [Official curriculum](https://github.com/cncf/curriculum)  
 [killer shell exam simulator](https://killer.sh/)  
