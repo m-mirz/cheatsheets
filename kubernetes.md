@@ -7,7 +7,7 @@ shell
     alias k=kubectl  # already configured
     export do="--dry-run=client -o yaml"
 
-vim
+vim (~/.vimrc)
 
     set tabstop=2
     set expandtab
